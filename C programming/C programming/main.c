@@ -145,7 +145,7 @@ DisgustingAlgorithm2(JMList *a, JMList *b) {
 }
 
 int main(int argc, const char * argv[]) {
-    type data_a[] = {1, 2, 9, 4, 5, 11, 3};
+    type data_a[] = {1, 2, 9, 19, 5, 11, 3};
     type data_b[] = {3, 5, 6, 7, 11, 8};
     
     JMList *A = JMListCreate(data_a, 7);
